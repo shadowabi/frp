@@ -2,7 +2,7 @@
 简单去特征的frp
 
 ## 功能列表
-1. 默认使用tls+websocket
+1. 默认使用tls+websocket（可通过修改配置文件修改此方式）
 2. tls特征简单修改
 3. 去除版本特征
 4. 修改websocket特征
